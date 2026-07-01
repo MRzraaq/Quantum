@@ -1,0 +1,2 @@
+Received URL: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64
+Would launch Quantum with: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64
